@@ -11,6 +11,7 @@ code .record.mp3
 
 Then press the play button to start the audio preview.
 
-You can also download the audio if you wish: with the audio preview open, press CTRL+Shift+E to reveal the mp3 file in the explorer. Right click the mp3 file and press "Download". Then press CTRL+B to hide the explorer. 
+Hint: you may wish to download the audio file to manipulate it (using external tools which are not found in the professor's house).
+To download the file: with the audio preview open, press CTRL+Shift+E to reveal the mp3 file in the explorer. Right click the mp3 file and press "Download". Then press CTRL+B to hide the explorer. 
 -------------------------------------------------------------------------------------
 
