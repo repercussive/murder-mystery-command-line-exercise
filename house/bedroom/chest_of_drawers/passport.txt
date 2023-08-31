@@ -1,0 +1,12 @@
+
+It appears to be the professor's passport. The information on the bio page reads:
+
+PASSPORT NO:      746821903
+SURNAME:          RAVENSCROFT
+FORENAME:         VICTOR
+NATIONALITY:      BRITISH CITIZEN
+DATE OF BIRTH:    8 DEC 1973
+SEX:              M
+PLACE OF BIRTH:   OXFORD
+DATE OF ISSUE:    3 MAY 2017
+DATE OF EXPIRY:   3 MAY 2027
