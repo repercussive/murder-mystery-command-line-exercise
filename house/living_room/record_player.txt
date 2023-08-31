@@ -1,12 +1,15 @@
 
-There's a vinyl record player here. An unusual record rests under the needle - it's unlabelled and a little warped.
+There's a vinyl record player here. An unusual disc rests under the needle - it's unlabelled and a little warped.
+Bizarrely, the record seems to spin anticlockwise rather than clockwise when played.
 
+-----------------------------------------------------------------------------------------
 To play the record, enter the following command in the terminal while in the living room:
 
 code .record.mp3
 
 (Both "." characters are necessary!)
 
-Then press the play button to start the audio preview. You can also download the audio if you wish...
+Then press the play button to start the audio preview.
 
-Bizarrely, the record seems to spin anticlockwise rather than clockwise when played.
+You can also download the audio if you wish: with the audio preview open, press CTRL+Shift+E to reveal the mp3 file in the explorer. Right click the mp3 file and press "Download". Then press CTRL+B to hide the explorer. 
+-------------------------------------------------------------------------------------
