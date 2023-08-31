@@ -18,3 +18,4 @@ You must also combine the three segments in the correct order.
 The hallway is this house's spine. Travel from its end to the entrance, and you will pass the doors to each room in a sequence.
 
 Combine the three segments corresponding to this sequence. If you are worthy, you will be granted access to the secrets I have hidden.
+
